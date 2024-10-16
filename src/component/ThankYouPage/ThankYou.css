@@ -1,0 +1,23 @@
+.main-page{
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+}
+
+.thank-you>img{
+    height: 150px;
+    width: 150px;
+    margin-left: 75px;
+}
+.thank-you .order{
+    font-size: 20px;
+    color: rgb(101, 99, 99);
+    margin-left: 100px;
+    margin-bottom: 8px;
+}
+.thank-you h2{
+    color: rgb(44, 32, 32);
+}
